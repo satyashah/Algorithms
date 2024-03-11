@@ -1,5 +1,4 @@
 
-
 arr = [8, 3, 2, 1, 0]
 print("Start: {}".format(arr))
 
